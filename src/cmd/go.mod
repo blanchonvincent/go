@@ -13,6 +13,10 @@ require (
 )
 
 require (
+	github.com/awalterschulze/gographviz v0.0.0-20200901124122-0eecad45bd71 // indirect
+	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9 // indirect
+	github.com/google/uuid v1.1.2 // indirect
 	github.com/ianlancetaylor/demangle v0.0.0-20220319035150-800ac71e25c2 // indirect
 	golang.org/x/crypto v0.0.0-20220516162934-403b01795ae8 // indirect
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
 )
